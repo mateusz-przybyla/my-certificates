@@ -10,11 +10,11 @@ I present my certificates of completed courses.
   - [Introduction to JavaScript](#introduction-to-javascript)
   - [Introduction to CSS](#introduction-to-css)
   - [Introduction to HTML](#introduction-to-html)
-  - [C++ Intermediate](#cpp-intermediate)
+  - [Cpp Intermediate](#cpp-intermediate)
   - [Tech for Everyone](#tech-for-everyone)
-  - [Introduction to C++](#introduction-to-cpp)
+  - [Introduction to Cpp](#introduction-to-cpp)
 - [gotoit](#gotoit)
-  - [Kurs C#: Podstawy](#kurs-csharp:-podstawy)
+  - [Kurs Csharp: Podstawy](#kurs-csharp-podstawy)
 
 ## UDEMY
 
@@ -36,7 +36,7 @@ I present my certificates of completed courses.
 
 ![](./images/CERTIFICATE_HTML_INTRODUCTION_sololearn.jpg)
 
-### C++ Intermediate
+### Cpp Intermediate
 
 ![](./images/CERTIFICATE_Cpp_INTERMEDIATE_sololearn.jpg)
 
@@ -44,12 +44,12 @@ I present my certificates of completed courses.
 
 ![](./images/CERTIFICATE_TECH_FOR_EVERYONE_sololearn.jpg)
 
-### Introduction to C++
+### Introduction to Cpp
 
 ![](./images/CERTIFICATE_Cpp_INTRODUCTION_sololearn.jpg)
 
 ## gotoit
 
-### Kurs C#: Podstawy
+### Kurs Csharp: Podstawy
 
 ![](./images/CERTYFIKAT_Csharp_PODSTAWY_gotoit.jpg)
