@@ -7,6 +7,7 @@ I present my certificates of completed courses.
 - [UDEMY](#udemy)
   - [GIT od podstaw dla każdego](#git-od-podstaw-dla-każdego)
 - [Sololearn](#sololearn)
+  - [Introduction to SQL](#introduction-to-sql)
   - [Intermediate JavaScript](#intermediate-javascript)
   - [Introduction to JavaScript](#introduction-to-javascript)
   - [Introduction to CSS](#introduction-to-css)
@@ -24,6 +25,10 @@ I present my certificates of completed courses.
 ![](./images/CERTIFICATE_GIT_udemy.jpg)
 
 ## Sololearn
+
+### Introduction to SQL
+
+![](./images/CERTIFICATE_SQL_INTRODUCTION_sololearn.jpg)
 
 ### Intermediate JavaScript
 
