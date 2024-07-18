@@ -5,6 +5,7 @@ I present my certificates of completed courses.
 ## Table of contents
 
 - [UDEMY](#udemy)
+  - [Complete Modern PHP Developer Course](#complete-modern-php-developer-course)
   - [GIT od podstaw dla każdego](#git-od-podstaw-dla-każdego)
 - [Sololearn](#sololearn)
   - [Intermediate SQL](#intermediate-sql)
@@ -20,6 +21,10 @@ I present my certificates of completed courses.
   - [Kurs Csharp: Podstawy](#kurs-csharp-podstawy)
 
 ## UDEMY
+
+### Complete Modern PHP Developer Course
+
+![](./images/CERTIFICATE_PHP_udemy.jpg)
 
 ### GIT od podstaw dla każdego
 
