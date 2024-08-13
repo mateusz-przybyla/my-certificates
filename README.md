@@ -5,6 +5,7 @@ I present my certificates of completed courses.
 ## Table of contents
 
 - [UDEMY](#udemy)
+  - [Praktyczny kurs Laravel](#praktyczny-kurs-laravel)
   - [Complete Modern PHP Developer Course](#complete-modern-php-developer-course)
   - [GIT od podstaw dla każdego](#git-od-podstaw-dla-każdego)
 - [Sololearn](#sololearn)
@@ -21,6 +22,10 @@ I present my certificates of completed courses.
   - [Kurs Csharp: Podstawy](#kurs-csharp-podstawy)
 
 ## UDEMY
+
+### Praktyczny kurs Laravel
+
+![](./images/CERTIFICATE_LARAVEL_udemy.jpg)
 
 ### Complete Modern PHP Developer Course
 
