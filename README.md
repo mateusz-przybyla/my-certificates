@@ -5,6 +5,7 @@ I present my certificates of completed courses.
 ## Table of contents
 
 - [UDEMY](#udemy)
+  - [The Complete 2024 Web Development Bootcamp](#the-complete-2024-web-development-bootcamp)
   - [Praktyczny kurs Laravel](#praktyczny-kurs-laravel)
   - [Complete Modern PHP Developer Course](#complete-modern-php-developer-course)
   - [GIT od podstaw dla każdego](#git-od-podstaw-dla-każdego)
@@ -22,6 +23,10 @@ I present my certificates of completed courses.
   - [Kurs Csharp: Podstawy](#kurs-csharp-podstawy)
 
 ## UDEMY
+
+### The Complete 2024 Web Development Bootcamp
+
+![](./images/CERTIFICATE_2024_WEB_DEVELOPMENT_BOOTCAMP_udemy.jpg)
 
 ### Praktyczny kurs Laravel
 
