@@ -5,6 +5,7 @@ I present my certificates of completed courses.
 ## Table of contents
 
 - [UDEMY](#udemy)
+  - [Uruchamianie aplikacji NodeJS na serwerze VPS](#uruchamianie-aplikacji-nodejs-na-serwerze-vps)
   - [The Complete 2024 Web Development Bootcamp](#the-complete-2024-web-development-bootcamp)
   - [Praktyczny kurs Laravel](#praktyczny-kurs-laravel)
   - [Complete Modern PHP Developer Course](#complete-modern-php-developer-course)
@@ -23,6 +24,10 @@ I present my certificates of completed courses.
   - [Kurs Csharp: Podstawy](#kurs-csharp-podstawy)
 
 ## UDEMY
+
+### Uruchamianie aplikacji NodeJS na serwerze VPS
+
+![](./images/CERTYFIKAT_URUCHAMIANIE_APLIKACJI_NODE_NA_VPS_udemy.jpg)
 
 ### The Complete 2024 Web Development Bootcamp
 
