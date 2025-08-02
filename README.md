@@ -4,6 +4,8 @@ I present my certificates of completed courses.
 
 ## Table of contents
 
+- [Santander OpenAcademy](#santander-open-academy)
+  - [Python](#python)
 - [SymfonyCasts](#symfonycasts)
   - [Harmonious Development with Symfony 6](#harmonious-development-with-symfony-6)
 - [UDEMY](#udemy)
@@ -24,6 +26,12 @@ I present my certificates of completed courses.
   - [Introduction to Cpp](#introduction-to-cpp)
 - [gotoit](#gotoit)
   - [Kurs Csharp: Podstawy](#kurs-csharp-podstawy)
+
+## Santander OpenAcademy
+
+### Python
+
+![](./images/CERTIFICATE_PYTHON_santander.jpg)
 
 ## SymfonyCasts
 
