@@ -9,6 +9,7 @@ I present my certificates of completed courses.
 - [SymfonyCasts](#symfonycasts)
   - [Harmonious Development with Symfony 6](#harmonious-development-with-symfony-6)
 - [UDEMY](#udemy)
+  - [Symfony Framework Hands-On 2025](#symfony-framework-hands-on-2025)
   - [Uruchamianie aplikacji NodeJS na serwerze VPS](#uruchamianie-aplikacji-nodejs-na-serwerze-vps)
   - [The Complete 2024 Web Development Bootcamp](#the-complete-2024-web-development-bootcamp)
   - [Praktyczny kurs Laravel](#praktyczny-kurs-laravel)
@@ -40,6 +41,10 @@ I present my certificates of completed courses.
 ![](./images/CERTIFICATE_SYMFONY-Harmonious-development-with-symfony-6_symfonycasts.jpg)
 
 ## UDEMY
+
+### Symfony Framework Hands-On 2025
+
+![](./images/CERTIFICATE_PHP_SYMFONY_FRAMEWORK_udemy.png)
 
 ### Uruchamianie aplikacji NodeJS na serwerze VPS
 
