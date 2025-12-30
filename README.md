@@ -1,6 +1,6 @@
 # My IT Certificates
 
-I present my certificates of completed courses.
+Below are my certificates of completed courses.
 
 ## Table of contents
 
@@ -9,6 +9,7 @@ I present my certificates of completed courses.
 - [SymfonyCasts](#symfonycasts)
   - [Harmonious Development with Symfony 6](#harmonious-development-with-symfony-6)
 - [UDEMY](#udemy)
+  - [REST APIs with Flask and Python in 2025](#rest-apis-with-flask-and-python-in-2025)
   - [Symfony Framework Hands-On 2025](#symfony-framework-hands-on-2025)
   - [Uruchamianie aplikacji NodeJS na serwerze VPS](#uruchamianie-aplikacji-nodejs-na-serwerze-vps)
   - [The Complete 2024 Web Development Bootcamp](#the-complete-2024-web-development-bootcamp)
@@ -41,6 +42,10 @@ I present my certificates of completed courses.
 ![](./images/CERTIFICATE_SYMFONY-Harmonious-development-with-symfony-6_symfonycasts.jpg)
 
 ## UDEMY
+
+### REST APIs with Flask and Python in 2025
+
+![](./images/CERTIFICATE_REST_APIs_Flask_udemy.jpg)
 
 ### Symfony Framework Hands-On 2025
 
